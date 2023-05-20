@@ -1,5 +1,10 @@
 
-![Logo](https://cdn-icons-png.flaticon.com/256/3898/3898082.png)
+<p align="center">
+  <img height="40%" width="40%" src="https://cdn-icons-png.flaticon.com/256/3898/3898082.png">  
+</p>
+
+![Alt text](https://img.shields.io/badge/Android%20Studio-Java-blue.svg)
+![Alt text](https://img.shields.io/badge/Firebase%20ML%20kit-blue.svg)
 
 
 # Lingua-Link (Language Translator App)
