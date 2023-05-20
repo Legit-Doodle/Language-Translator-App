@@ -54,15 +54,6 @@ To use this app, you'll need to follow these steps:
   <img height="40%" width="40%" src="https://github.com/Legit-Doodle/Language-Translator-App/assets/77480195/1b6b1f38-f7d7-4ea9-80ae-82db821998f8">
 </p>
 
-<!-- ![Screenshot_2023-05-11-00-40-20-04_11d8e2d502438304b4a5a51652b664d3](https://github.com/Legit-Doodle/Language-Translator-App/assets/77480195/19ea859d-cebf-437c-9bc1-17f800af7a00)
-![Screenshot_2023-05-11-00-41-41-00_11d8e2d502438304b4a5a51652b664d3](https://github.com/Legit-Doodle/Language-Translator-App/assets/77480195/66a6b823-418f-486e-b18b-22eca03423dd)
-
-![Screenshot_2023-05-11-00-41-45-37_11d8e2d502438304b4a5a51652b664d3](https://github.com/Legit-Doodle/Language-Translator-App/assets/77480195/8a1fb526-8e99-475a-bff4-537e97213ad9)
-![Screenshot_2023-05-11-00-42-46-39_a6ef3d3be36e3bff34e5a5ac2e5be79d](https://github.com/Legit-Doodle/Language-Translator-App/assets/77480195/7b62981b-f0a7-4cdc-9884-9676ad50058a)
-![Screenshot_2023-05-11-00-42-51-79_11d8e2d502438304b4a5a51652b664d3](https://github.com/Legit-Doodle/Language-Translator-App/assets/77480195/bf6497fd-d397-475a-b21e-1eb7247a512e)
-
-![Screenshot_2023-05-11-00-46-10-84_11d8e2d502438304b4a5a51652b664d3](https://github.com/Legit-Doodle/Language-Translator-App/assets/77480195/1b6b1f38-f7d7-4ea9-80ae-82db821998f8) -->
-
 
 ## Demo
 
